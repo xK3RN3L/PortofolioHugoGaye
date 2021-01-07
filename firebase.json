@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "ShopTaPhotoHugo",
     "ignore": [
       "firebase.json",
       "**/.*",
